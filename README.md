@@ -1,5 +1,5 @@
 <h1>Emmett Fitzharris</h1>
-<h2 align="center">Bsc. Software Development MTU Cork (with distinction), studying to achieve Bsc.(Hons) Level 8</h2>
+<h2 align="center">First Class Honours Bsc.(Hons) Software Development MTU Cork</h2>
 
 
 <p align = "center">
